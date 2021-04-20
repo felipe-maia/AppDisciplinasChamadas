@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318437346619",
+    "firebase_url": "https://utfpr---disciplinas-e-chamadas.firebaseio.com",
+    "project_id": "utfpr---disciplinas-e-chamadas",
+    "storage_bucket": "utfpr---disciplinas-e-chamadas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318437346619:android:759aa2fb0e7e604388fb1e",
+        "android_client_info": {
+          "package_name": "com.example.utfpr_disciplinaschamadas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318437346619-560rv9cu1ainsgiuui541th381bokqg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7tKD14kATyRRKDdosRqfAoJOgnMGE5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318437346619-560rv9cu1ainsgiuui541th381bokqg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
